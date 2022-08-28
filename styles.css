@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+
+    
+    body
+    {
+        background-color: greenyellow;
+
+    }
+
+    
+
+    h1{
+        color: brown;
+
+    }
+
+    h2{
+        color: crimson;
+    }
+    h3{
+        color: darkgreen;
+    }
+
+a{
+text-decoration: none;
+color: white;
+
+}
+
+img{
+    width: 550;
+    height: 546;
+    align-items: center;
+    border: 75px solid grey;
+}
+
+    ol{color: blueviolet;
+        width: 456;
+        height: 451;
+
+       
+
+        }
+
+     form {  width: 70%;
+        height: 400px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+    
+
+
